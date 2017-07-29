@@ -9,6 +9,8 @@
 
 * 我们的目标是把官方文档翻译成中文，让更多的小伙伴了解学习Hyperledger fabric。并在翻译的同时学习理解Hyperledger fabric。
 
+* 在线阅读 [gitbook](https://www.gitbook.com/book/alvinleee/fabric-doc-cn/details)
+
 * 有兴趣的小伙伴们，快来加入吧！
 ## 参与贡献
 
